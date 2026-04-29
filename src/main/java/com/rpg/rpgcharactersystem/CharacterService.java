@@ -2,7 +2,7 @@ package com.rpg.rpgcharactersystem;
 
 import org.springframework.stereotype.Service;
 
-@Service
+
 public class CharacterService {
 
     private String name;
